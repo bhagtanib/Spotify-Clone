@@ -1,0 +1,14 @@
+.row img{
+    size: 100%;
+    height: 50px;
+    margin-right: 5px;
+}
+.row{
+    font-size: 8px;
+    display: flex;
+    align-items: center;
+
+}
+.row > *{
+    margin: 10px 10px;
+}

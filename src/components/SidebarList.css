@@ -1,0 +1,15 @@
+.sidebarList{
+    margin-left: 10px;
+    padding-left: 5px;
+    margin-bottom: 0;
+    transition: 0.2s color ease-in;
+}
+.sidebarList p{
+    font-size: .9rem;
+    font-weight: 500;
+    color: grey;
+    cursor: pointer;
+}
+.sidebarList:hover p{
+    color: white;
+}
